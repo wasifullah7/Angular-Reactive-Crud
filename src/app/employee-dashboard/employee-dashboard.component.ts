@@ -98,7 +98,8 @@ updateEmployeeDetails() {
     .subscribe(
       (res) => {
         alert("Update Successfully");
-        this.exampleModalRef?.nativeElement.click();
+        let ref = document.getElementById("cancel");
+        ref?.click();
         this.formValue.reset();
         this.getAllEmployee();
       },
