@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "firstName": "muhammad",
+      "lastName": "ali safi",
+      "email": "ali@gmail.com",
+      "mobile": "03299343489",
+      "salary": "2000",
+      "id": 13
+    },
+    {
+      "firstName": "naeem",
+      "lastName": "khan",
+      "email": "naeem@gmail.com",
+      "mobile": "03189340389",
+      "salary": "1000000",
+      "id": 18
+    },
+    {
+      "firstName": "imad",
+      "lastName": "khan",
+      "email": "imad@gmail.com",
+      "mobile": "0432334508",
+      "salary": "100000",
+      "id": 19
+    },
+    {
+      "firstName": "ayesha",
+      "lastName": "fajar",
+      "email": "fajaro@gmail.com",
+      "mobile": "03299343489",
+      "salary": "123545",
+      "id": 20
+    },
+    {
+      "firstName": "ashfaq",
+      "lastName": "khan",
+      "email": "ashfaq@gmail.com",
+      "mobile": "oeurfewb",
+      "salary": "3454305",
+      "id": 21
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
